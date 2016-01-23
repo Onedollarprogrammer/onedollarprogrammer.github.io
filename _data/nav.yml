@@ -1,0 +1,22 @@
+- href: /page/timing.html
+  icon: fa fa-history
+  title: 时间简史
+
+- href: /page/category.html
+  icon: fa fa-file-pdf-o
+  title: 文章分类
+
+#- href: /page/read.html
+#  icon:  fa fa-book
+#  title: 阅读
+
+#icon: fa fa-eyedropper
+#newblank: true
+- href: /page/resource.html
+  icon: fa fa-puzzle-piece
+  title: 资源收藏
+  newblank: fasle
+
+- href: /page/about.html
+  icon: fa fa-graduation-cap
+  title: 关于作者

@@ -1,0 +1,60 @@
+name: 工具
+icon: fa fa-legal
+members:
+
+  - name: 常用API文档索引
+    link: http://tool.oschina.net/apidocs
+
+  - name: RGB颜色查询对照表
+    link: http://www.114la.com/other/rgb.htm
+
+  - name: markdown简明语法
+    link: http://ibruce.info/2013/11/26/markdown/
+    
+  - name: 常用对照表
+    link: http://tool.oschina.net/commons
+    
+  - name: API Store
+    link: http://apistore.baidu.com/
+    
+  - name: MarkDown Resume
+    link: http://cvbox.sinaapp.com/
+    
+  - name: Stack Overflow
+    link: http://stackoverflow.com/
+    
+  - name: Jekyll
+    link: http://jekyll.bootcss.com/
+    
+  - name: C++新标准学习
+    link: http://cpp1x.org/compiler-support.html
+    
+  - name: google hosts
+    link: http://googlehost.lofter.com/
+    
+  - name: google mirror
+    link: http://www.itechzero.com/google-mirror-sites-collect.html
+    
+  - name: blog.me115
+    link: http://blog.me115.com/
+    
+  - name: Font Awesome
+    link: http://code.zoomla.cn/boot/font.html
+    
+  - name: cpp1x.org/
+    link: http://cpp1x.org/
+  
+  - name: SmallPDF转换在线转换工具
+    link: http://smallpdf.com/cn
+    
+  - name: 谷歌学术搜索镜像导航
+    link: http://dir.scmor.com/google/
+  
+  - name: google学术搜索
+    link: http://guog.org/
+    
+  
+    
+    
+
+ 
