@@ -1,7 +1,7 @@
 ---
 layout : post
 title : "关于一美元程序开发"
-category : 程序开发
+category : 开发
 duoshuo: true
 date : 2014-06-27
 tags : [程序开发]
