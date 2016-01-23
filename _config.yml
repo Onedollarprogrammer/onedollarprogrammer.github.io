@@ -18,9 +18,10 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: 码农，程序猿                                      # 博客名称
+    name: 一美元程序开发                                      # 博客名称
+    short_name: 码农，程序猿                                      # 博客名称
     description: 一美元不多!                        # 博客描述
-    title: Ctrl Z Day!                                   # 网页标题
+    title: 一美元程序开发!                                   # 网页标题
     url: http://onedollarprogrammer.github.io/                     # 博客地址
     duoshuo: onedollarprogrammer                                   # 多说ID 
     tongji: b5f3587ab75d11d6b0504e27e644ec2d             # 百度统计ID
