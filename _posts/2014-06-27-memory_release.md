@@ -18,4 +18,5 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 HTML,JAVASCRIPT,Python,PHP,JAVA
 
 一美元不多！
-[给我一个机会 ，我可以做得更好。](/)
+
+>[给我一个机会 ，我可以做得更好。](/)
