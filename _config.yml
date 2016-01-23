@@ -18,8 +18,8 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: onedollarprogrammer                                      # 博客名称
-    description: Sharp your mind!                        # 博客描述
+    name: 码农，程序猿                                      # 博客名称
+    description: 一美元不多!                        # 博客描述
     title: Ctrl Z Day!                                   # 网页标题
     url: http://onedollarprogrammer.github.io/                     # 博客地址
     duoshuo: onedollarprogrammer                                   # 多说ID 
