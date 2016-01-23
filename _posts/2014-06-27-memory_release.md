@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "关于一美元开发博客"
+title : "关于一美元程序开发"
 category : 编程,程序开发
 duoshuo: true
 date : 2014-06-27
