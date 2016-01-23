@@ -1,13 +1,20 @@
 ---
 layout : post
 title : "关于一美元开发博客"
-category : 编程
+category : 编程,程序开发
 duoshuo: true
 date : 2014-06-27
-tags : [Memory]
+tags : [程序开发]
 SyntaxHihglighter: true
 shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 ---
-###关于一美元开发博客
+###一美元程序开发
 
-做些一美元能做的技术开发
+业务范围包括：
+
+网页开发,程序修改，数据采集,系统程序开发
+
+开发语言:
+HTML,JAVASCRIPT,Python,PHP,JAVA
+
+一美元不多！
