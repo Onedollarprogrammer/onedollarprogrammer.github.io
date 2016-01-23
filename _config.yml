@@ -20,7 +20,7 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 blog:
     name: 一美元程序开发                                      # 博客名称
     short_name: 码农，程序猿                                      # 博客名称
-    description: 自由工作者!                        # 博客描述
+    description: 独立开发者!                        # 博客描述
     title: 一美元程序开发!                                   # 网页标题
     url: http://onedollarprogrammer.github.io/                     # 博客地址
     duoshuo: onedollarprogrammer                                   # 多说ID 
