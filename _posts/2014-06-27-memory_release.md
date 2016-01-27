@@ -12,15 +12,15 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 * 业务范围包括：
 
-网页开发,程序修改，数据采集,程序系统开发,wordpress 博客网站开发
+		网页开发,程序修改，数据采集,程序系统开发,wordpress 博客网站开发
 
-开发语言:
+		开发语言:
 
-HTML,CSS,JAVASCRIPT,Python,PHP,JAVA
+		HTML,CSS,JAVASCRIPT,Python,PHP,JAVA
 
-一美元不多！
+		一美元不多！
 
->[给我一个机会 ，我可以做得更好。](/)
+		>[给我一个机会 ，我可以做得更好。](/)
 
 * 出售下面网站以及源码程序：
 
