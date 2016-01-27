@@ -31,7 +31,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 	+ [http://www.jfox.info/](http://www.jfox.info/){:target="_blank"}\(源码程序200RMB,域名40000RMB\)
 
-	+ [http://www.1024xyz.com/](http://www.1024xyz.com/){:target="_blank"}(源码程序300RMB,域名2000RMB\)
+	+ [http://www.1024xyz.com/](http://www.1024xyz.com/){:target="_blank"}(源码程序500RMB,域名8000RMB\)
 
 * 有需要请联系，微信：alexwangwx
 
