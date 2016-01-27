@@ -57,7 +57,7 @@ blockquote p {
 
 ---
 
->最近访客  
+ 
 
 <div class="ds-recent-visitors" data-num-items="36" data-avatar-size="42" id="ds-recent-visitors"></div>
 
