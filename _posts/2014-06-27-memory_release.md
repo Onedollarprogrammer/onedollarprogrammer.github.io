@@ -20,7 +20,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 		一美元不多！
 
-		>[给我一个机会 ，我可以做得更好。](/)
+>[给我一个机会 ，我可以做得更好。](/)
 
 * 出售下面网站以及源码程序：
 
