@@ -24,11 +24,11 @@ HTML,CSS,JAVASCRIPT,Python,PHP,JAVA
 
 出售下面网站以及源码程序：
 
-[http://www.hdyhly.com/](http://www.hdyhly.com/)
+[http://www.hdyhly.com/](http://www.hdyhly.com/){:target="_blank"}
 
-[http://www.jfox.info/](http://www.jfox.info/)
+[http://www.jfox.info/](http://www.jfox.info/){:target="_blank"}
 
-[http://www.1024xyz.com/](http://www.1024xyz.com/)
+[http://www.1024xyz.com/](http://www.1024xyz.com/){:target="_blank"}
 
 有需要请联系，微信：alexwangwx
 
