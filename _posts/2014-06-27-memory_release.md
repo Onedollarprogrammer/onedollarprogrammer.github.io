@@ -18,9 +18,9 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 	HTML,CSS,JAVASCRIPT,Python,PHP,JAVA
 
-	一美元不多！
+*  开发服务
 
->[给我一个机会 ，我可以做得更好。](/)
+	1000RMB/天
 
 ---
 
