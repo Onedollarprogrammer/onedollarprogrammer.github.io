@@ -20,7 +20,7 @@ shTheme: shThemeMidnight # shThemeDefault  shThemeDjango  shThemeEclipse  shThem
 
 *  开发服务
 
-	1000RMB/天
+	1000RMB（8h)/天
 
 ---
 
