@@ -1,6 +1,6 @@
 require.config({
 	waitSeconds : 30,
     paths: {
-        simplemde: 'https://onedollarprogrammer.github.io/simplemde.min'
+        sd: 'https://onedollarprogrammer.github.io/sd'
     }
 });
